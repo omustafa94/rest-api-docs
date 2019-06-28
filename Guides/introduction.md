@@ -6,7 +6,7 @@ The default file format returned by all API responses is JSON, including errors 
 
 ### Developer testing steps
 
-We recommend that you:-
+We recommend that you:
 
 1. Read our API documentation first (see [Payment Flows](1_0_0#/http/guides/payment-flows))
 2. Download and use our [Postman collection](https://github.com/Earthport/rest-api-postman) to understand our data types and use cases (these contain sample requests)
