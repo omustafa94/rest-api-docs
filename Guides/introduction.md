@@ -1,4 +1,4 @@
-We at Earthport provide all our clients with our [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)ful API service - it's easy to use, has predictable resource-oriented URLs, plus demonstrates the use of HTTP response codes to indicate API errors. 
+We at Earthport provide all our clients with our [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)ful API service - it's easy to use, has predictable resource-oriented URLs, and demonstrates the use of HTTP response codes to indicate API errors. 
 
 We use built-in HTTP features, like HTTP authentication and HTTP verbs, which are understood by off-the-shelf HTTP clients. We support [cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing), allowing you to interact securely with our API from client-side web applications.
 
