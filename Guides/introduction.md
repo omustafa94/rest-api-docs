@@ -2,7 +2,7 @@ We at Earthport provide all our clients with our [REST](https://en.wikipedia.org
 
 We use built-in HTTP features; HTTP authentication and HTTP verbs, which are understood by off-the-shelf HTTP clients. Furthermore, we support [cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing), allowing you to interact securely with our API from client-side web applications. However you should never expose your secret API key in any public website's client-side code. 
 
-The default file format returned by all API responses is JSON, including errors, although our API libraries convert responses to appropriate language-specific objects.
+The default file format returned by all API responses is JSON, including errors. Although our API libraries convert responses to appropriate language-specific objects.
 
 ### Developer testing steps
 
