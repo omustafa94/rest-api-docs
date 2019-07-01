@@ -1,5 +1,5 @@
 ## Readme
-This repo contains the entirety of documentation pages which are being used to build Earthport's REST API documentation at [https://docs.earthport.com](https://docs.earthport.com).
+This repo contains the entirety of documentation pages being used to build Earthport's REST API documentation at [https://docs.earthport.com](https://docs.earthport.com).
 
 The online documentation includes a section called 'Guides' which contains a number of pages that are generated from the markdown files within this repo.
 
